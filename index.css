@@ -1,0 +1,19 @@
+body {
+	padding-top: 5px;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+}
+
+div {
+	height: 100%;
+	padding-top: 5px;
+	position: relative;
+}
+
+.main {
+	margin: auto;
+	border:solid 1px;
+	background-color: #b0c4de;
+	width: 90%;
+}

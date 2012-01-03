@@ -1,0 +1,26 @@
+div#timer-container {
+	width: 95%;
+	height: 50px;
+	padding-top: 5px;
+	padding-left: 5px;
+	vertical-align: center;
+}
+
+div#notifier-container {
+	display : block;
+	height: 30px;
+	font-size: 100%;
+	font-weight: bold;
+	text-align: center;
+	margin: auto;
+	background-color: #ffcccc;border: 1px solid red;color: red;
+}
+.notifier-timer {}
+
+.notifier-msg {}
+
+.timer-class {width: 95%;font-weight: bold;}
+
+.hide {z-index: -1;}
+
+.show {z-index: 100;}
